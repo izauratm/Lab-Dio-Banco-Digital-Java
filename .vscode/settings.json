@@ -1,0 +1,16 @@
+{
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-17",
+      "path": "C:\\Program Files\\Java\\jdk-17",
+      "default": true
+    }
+  ],
+
+    "cSpell.words": [
+        "bancodigital"
+    ]
+}
+
+
+//atalho para editar arquivos .json, use o atalho Ctrl+Shift+I para formatar automaticamente.
