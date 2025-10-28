@@ -1,4 +1,4 @@
-# 🏦 Banco Digital Simples em Java
+# <h1 align="center">🏦 Banco Digital Simples em Java</h1>
 Este repositório reúne os principais aprendizados adquiridos durante o **Bootcamp GFT - Desenvolvimento Java com IA - Curso: Orientação a Objetos e Eficiência na Manipulação de Dados em Java** da plataforma DIO.me.
 Um projeto simples de simulação de um sistema de banco digital desenvolvido em Java, utilizando Programação Orientada a Objetos (POO) com herança, interfaces e o uso da biblioteca [Lombok](https://projectlombok.org/) para redução de código boilerplate.
 
